@@ -1,0 +1,35 @@
+.h33{background-color: aqua;
+}
+.h44{
+    background-color: aqua;
+}
+.h55{
+    background-color: aqua;
+}
+.h66{
+    background-color: aqua;
+}
+.class{
+    background-color: chartreuse;
+    font-style: italic;
+}
+.h777{
+    cursor: pointer;
+}
+
+   .relative{
+    border-radius: 100px;
+    
+ width: 100px;
+ height: 100px;
+ border: 2px solid rgb(rgb(44, 21, 21), green, blue);
+background-color: aqua;
+ position:fixed;
+  top: 300px;
+  left:1200px;
+  cursor: pointer;
+
+
+
+
+   }
